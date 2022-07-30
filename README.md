@@ -13,6 +13,7 @@ Create Git repo (if you clone this repo this step is not needed):
 git init
 git add .
 git commit -m "initial commit"
+git branch -M main
 ```
 
 Create Heroku project
